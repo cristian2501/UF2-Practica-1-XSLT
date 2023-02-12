@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="Actividad2.xsl" type="text/xsl"?>
+<!-- lista de Alumnos-->
+<Lista>
+  <alumnos>
+    <alumno>
+      <nombre>Alicia</nombre>
+      <apellido>Garcia</apellido>
+    </alumno>
+    <alumno>
+      <nombre>Laura</nombre>
+      <apellido>Lopez</apellido>
+    </alumno>
+    <alumno>
+      <nombre>Viktor</nombre>
+      <apellido>Perez</apellido>
+    </alumno>
+    <alumno>
+      <nombre>Roberto</nombre>
+      <apellido>Roca</apellido>
+    </alumno>
+  </alumnos>
+</Lista>

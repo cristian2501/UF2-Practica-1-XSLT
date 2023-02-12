@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="actividad3.xsl" type="text/xsl"?>
+<!-- Lista de Empleados-->
+<Empleados>
+    <empleado>
+        <nombre>Luis</nombre>
+        <apellido>Romero</apellido> 
+        <dni>42223H</dni>
+        <email>luisr@mail.com</email>
+        <telefono>3488819</telefono>
+        <sueldo>1300</sueldo>
+    </empleado>
+    <empleado>
+        <nombre>Michele</nombre>
+        <apellido>Jones</apellido> 
+        <dni>3562122Q</dni>
+        <email>michele@mail.com</email>
+        <telefono>215535663</telefono>
+        <sueldo>1100</sueldo>
+    </empleado>
+    <empleado>
+        <nombre>Eric</nombre>
+        <apellido>Chan</apellido> 
+        <dni>34445123H</dni>
+        <email>eric@mail.com</email>
+        <telefono>84625589</telefono>
+        <sueldo>900</sueldo>
+    </empleado>
+    <empleado>
+        <nombre>Robert</nombre>
+        <apellido>Graham</apellido> 
+        <dni>4456624G</dni>
+        <email>robert@mail.com</email>
+        <telefono>x231245xxxxx</telefono>
+        <sueldo>3000</sueldo>
+    </empleado>
+    <empleado>
+        <nombre>Brent</nombre>
+        <apellido>Chapman</apellido> 
+        <dni>63423Y</dni>
+        <email>brent@mail.com</email>
+        <telefono>4445723</telefono>
+        <sueldo>1700</sueldo>
+    </empleado>
+    <empleado>
+        <nombre>Robert</nombre>
+        <apellido>Jacobson</apellido> 
+        <dni>5512154Y</dni>
+        <email>robert@mail.com</email>
+        <telefono>23334123</telefono>
+        <sueldo>1500</sueldo>
+    </empleado>
+    <empleado>
+        <nombre>Megan</nombre>
+        <apellido>Stanley</apellido> 
+        <dni>34445123H</dni>
+        <email>megan@mail.com</email>
+        <telefono>4445723</telefono>
+        <sueldo>1000</sueldo>
+    </empleado>
+</Empleados>
